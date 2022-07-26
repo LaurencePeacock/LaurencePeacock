@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurencePeacock
+- 👋 Hi, I’m Laurence
 - 🌱 I’m currently learning Front End web development
 
 <!---
