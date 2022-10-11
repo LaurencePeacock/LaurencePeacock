@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurence
-- 🌱 I’m currently learning Front End web development
+- 🌱 I’m a Front End web developer
 
 <!---
 LaurencePeacock/LaurencePeacock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
