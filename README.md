@@ -1,4 +1,4 @@
-Systems Developer at Jaywing specialising in AI sytems and implementation
+Software Engineer at Jaywing specialising in AI sytems and implementation
 
 <!---
 LaurencePeacock/LaurencePeacock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
